@@ -6,8 +6,8 @@ export default function Project() {
   return (
     <div class="container">
       <p class="subtitle is-5 googleFontsPoppins fontSizeSubtitle">
-        Here are some experiences that have been very meaningful to me during my
-        journey as a JavaScript developer
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae
+        facilisis ex. Morbi dapibus ultrices placerat.
       </p>
       <div class="columns is-multiline">
         <FetchDataProjectAll />

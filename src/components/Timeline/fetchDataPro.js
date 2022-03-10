@@ -17,12 +17,6 @@ export default function FetchDataPro() {
           <h3 class="googleFontsMontserrat fontSizeParagraphe">
             {element.JobTtile}
           </h3>
-          <a
-            class="is-size-7 has-text-weight-light googleFontsPoppins"
-            href={element.link}
-          >
-            <span>Know more</span>
-          </a>
         </div>
       </div>
     );

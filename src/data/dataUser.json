@@ -2,11 +2,11 @@
   {
     "user": {
       "key": 1,
-      "name": "Etienne Juzans",
-      "title": "JavaScript Developer",
-      "subtitle": "Back-end & Front-end",
-      "text": "Passionate about JavaScript frameworks, whether front-end or back-end. Passionate about computer culture, geek and technology",
-      "location": "(Currently in Paris)"
+      "name": "Lorem ipsum",
+      "title": "dolor sit amet",
+      "subtitle": "consectetur adipiscing elit",
+      "text": "Praesent vitae facilisis ex. Morbi dapibus ultrices placerat. Quisque eget mollis leo. Fusce blandit arcu metus,",
+      "location": "metus, eget sodales "
     },
     "technologys": [
       {
@@ -16,100 +16,134 @@
       },
       {
         "key": 2,
-        "nameTechnology": "Node.js",
-        "icone": "fa-brands fa-node-js"
+        "nameTechnology": "Javascript",
+        "icone": "fa-brands fa-js-square"
       },
       {
         "key": 3,
-        "nameTechnology": "React-native",
-        "icone": "fa-brands fa-react"
+        "nameTechnology": "Javascript",
+        "icone": "fa-brands fa-js-square"
       },
       {
         "key": 4,
-        "nameTechnology": "React.js",
-        "icone": "fa-brands fa-react"
+        "nameTechnology": "Javascript",
+        "icone": "fa-brands fa-js-square"
       },
       {
         "key": 5,
-        "nameTechnology": "A W S",
-        "icone": "fa-brands fa-aws"
+        "nameTechnology": "Javascript",
+        "icone": "fa-brands fa-js-square"
       },
       {
         "key": 6,
-        "nameTechnology": "Python",
-        "icone": "fa-brands fa-python"
+        "nameTechnology": "Javascript",
+        "icone": "fa-brands fa-js-square"
       }
     ],
     "experiences": [
       {
-        "Key": 4,
-        "CompanyName": "Esens",
-        "Date": "2021 - today",
-        "JobTtile": "JavaScript Developer",
-        "link": "project/Esens",
-        "text": "Esens Consulting is a consulting company. With a concern to respect and value these collaborators. Esens encourages personal development, and the expertise of it is to employ.",
+        "Key": 1,
+        "CompanyName": "Lorem",
+        "Date": "2021 - Lorem",
+        "JobTtile": "dolor sit amet",
+        "text": "Duis aliquam tortor lectus, vitae rutrum justo dictum a. Nulla pellentesque, purus eu condimentum vehicula, velit lacus molestie lectus, et luctus elit orci eu tortor.",
         "tag": [
-          { "Key": 1, "name": "Dfinity" },
-          { "Key": 2, "name": "Internet Computer" },
-          { "Key": 3, "name": "Vue.js" },
-          { "Key": 4, "name": "Vuetify" }
-        ]
-      },
-      {
-        "Key": 3,
-        "CompanyName": "Tastr.Us",
-        "Date": "2020 - 2021",
-        "JobTtile": "Node.js React-Native Developer",
-        "link": "project/TastrUs",
-        "text": "Instantly discover the films and series that suit you, on your VOD platforms. Less time searching, more time looking ! Currently available on all stores (Apple store & Google PLAY).",
-        "tag": [
-          { "Key": 1, "name": "AWS" },
-          { "Key": 2, "name": "Node.js" },
-          { "Key": 3, "name": "React-native" },
-          { "Key": 4, "name": "React.js" }
+          { "Key": 1, "name": "Lorem " },
+          { "Key": 2, "name": "Lorem ipsum " },
+          { "Key": 3, "name": "Lorem" },
+          { "Key": 4, "name": "Lorem ipsum " }
         ]
       },
       {
         "Key": 2,
-        "CompanyName": "Rutabago",
-        "Date": "2019",
-        "JobTtile": "Php Developer",
-        "link": "project/Rutabago",
-        "text": "Rutabago is a delivery company for 'organic' meals, to be cooked at home. On Paris.",
+        "CompanyName": "Lorem",
+        "Date": "2021 - Lorem",
+        "JobTtile": "dolor sit amet",
+        "text": "Duis aliquam tortor lectus, vitae rutrum justo dictum a. Nulla pellentesque, purus eu condimentum vehicula, velit lacus molestie lectus, et luctus elit orci eu tortor.",
         "tag": [
-          { "Key": 1, "name": "Php" },
-          { "Key": 2, "name": "Prestashop" },
-          { "Key": 3, "name": "Javascript" }
+          { "Key": 1, "name": "Lorem " },
+          { "Key": 2, "name": "Lorem ipsum " },
+          { "Key": 3, "name": "Lorem" },
+          { "Key": 4, "name": "Lorem ipsum " }
         ]
       },
       {
-        "Key": 1,
-        "CompanyName": "Skeel App",
-        "Date": "2018 - 2019",
-        "JobTtile": "React Native Developer",
-        "link": "project/SkeelApp",
-        "text": "Skeel is the first social network that allows you to compare your video clips with other users and earn rewards thanks to your skills ! The community then votes to bring out the most talented users !",
-        "tag": [{ "Key": 1, "name": "React-native" }]
+        "Key": 3,
+        "CompanyName": "Lorem",
+        "Date": "2021 - Lorem",
+        "JobTtile": "dolor sit amet",
+        "text": "Duis aliquam tortor lectus, vitae rutrum justo dictum a. Nulla pellentesque, purus eu condimentum vehicula, velit lacus molestie lectus, et luctus elit orci eu tortor.",
+        "tag": [
+          { "Key": 1, "name": "Lorem " },
+          { "Key": 2, "name": "Lorem ipsum " },
+          { "Key": 3, "name": "Lorem" },
+          { "Key": 4, "name": "Lorem ipsum " }
+        ]
+      },
+      {
+        "Key": 4,
+        "CompanyName": "Lorem",
+        "Date": "2021 - Lorem",
+        "JobTtile": "dolor sit amet",
+        "text": "Duis aliquam tortor lectus, vitae rutrum justo dictum a. Nulla pellentesque, purus eu condimentum vehicula, velit lacus molestie lectus, et luctus elit orci eu tortor.",
+        "tag": [
+          { "Key": 1, "name": "Lorem " },
+          { "Key": 2, "name": "Lorem ipsum " },
+          { "Key": 3, "name": "Lorem" },
+          { "Key": 4, "name": "Lorem ipsum " }
+        ]
+      },
+      {
+        "Key": 5,
+        "CompanyName": "Lorem",
+        "Date": "2021 - Lorem",
+        "JobTtile": "dolor sit amet",
+        "text": "Duis aliquam tortor lectus, vitae rutrum justo dictum a. Nulla pellentesque, purus eu condimentum vehicula, velit lacus molestie lectus, et luctus elit orci eu tortor.",
+        "tag": [
+          { "Key": 1, "name": "Lorem " },
+          { "Key": 2, "name": "Lorem ipsum " },
+          { "Key": 3, "name": "Lorem" },
+          { "Key": 4, "name": "Lorem ipsum " }
+        ]
+      },
+      {
+        "Key": 6,
+        "CompanyName": "Lorem",
+        "Date": "2021 - Lorem",
+        "JobTtile": "dolor sit amet",
+        "text": "Duis aliquam tortor lectus, vitae rutrum justo dictum a. Nulla pellentesque, purus eu condimentum vehicula, velit lacus molestie lectus, et luctus elit orci eu tortor.",
+        "tag": [
+          { "Key": 1, "name": "Lorem " },
+          { "Key": 2, "name": "Lorem ipsum " },
+          { "Key": 3, "name": "Lorem" },
+          { "Key": 4, "name": "Lorem ipsum " }
+        ]
       }
     ],
     "formation": [
       {
-        "Key": 3,
-        "nameOfDegree": "Master of Business",
-        "Date": "2019 - 2021",
-        "CourseTtile": "Expert in Information Systems (IS)"
+        "Key": 1,
+        "nameOfDegree": "dolor sit amet",
+        "Date": "2022 - 2022",
+        "CourseTtile": "Aenean vestibulum purus vestibulum"
       },
       {
         "Key": 2,
-        "nameOfDegree": "Bachelor of Science",
-        "Date": "2017 - 2019",
-        "CourseTtile": "Web and Mobile Development"
+        "nameOfDegree": "dolor sit amet",
+        "Date": "2022 - 2022",
+        "CourseTtile": "Aenean vestibulum purus vestibulum"
       },
       {
-        "Key": 1,
-        "nameOfDegree": "Baccalaureate",
-        "Date": "2016",
-        "CourseTtile": "Electrical Engineering"
+        "Key": 3,
+        "nameOfDegree": "dolor sit amet",
+        "Date": "2022 - 2022",
+        "CourseTtile": "Aenean vestibulum purus vestibulum"
+      },
+      {
+        "Key": 4,
+        "nameOfDegree": "dolor sit amet",
+        "Date": "2022 - 2022",
+        "CourseTtile": "Aenean vestibulum purus vestibulum"
       }
     ]
   }

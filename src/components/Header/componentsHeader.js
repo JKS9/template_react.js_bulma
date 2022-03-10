@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Logo from '../../assets/images/svg/logo.svg';
 
 import './componentsHeader.css';
 
@@ -8,7 +7,7 @@ export default function Header() {
   const [isActive, setisActive] = React.useState(false);
 
   const linkGitHub = () => {
-    window.open('https://github.com/JKS9', '_blank');
+    window.open('https://github.com/', '_blank');
   };
 
   return (
@@ -17,7 +16,7 @@ export default function Header() {
         <nav class="navbar" role="navigation" aria-label="main navigation">
           <div class="navbar-brand">
             <Link className="navbar-item" to="/">
-              <img src={Logo} width="75" alt="EtienneJuz developper JS Logo" />
+              Logo
             </Link>
 
             <button
@@ -60,10 +59,7 @@ export default function Header() {
                     style={{ width: isActive ? '100%' : '' }}
                   >
                     <span class="icon is-medium">
-                      <i
-                        class="fab fa-github"
-                        alt="icone github Etienne Juzans"
-                      ></i>
+                      <i class="fab fa-github" alt="icone github"></i>
                     </span>
                   </button>
                 </div>

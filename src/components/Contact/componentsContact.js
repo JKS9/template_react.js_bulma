@@ -5,25 +5,25 @@ import './componentsContact.css';
 
 export default function Contact() {
   const linkLinkedin = () => {
-    window.open('https://www.linkedin.com/in/etienne-juzans/', '_blank');
+    window.open('https://www.linkedin.com/', '_blank');
   };
 
   const linkGitHub = () => {
-    window.open('https://github.com/JKS9', '_blank');
+    window.open('https://github.com/', '_blank');
   };
 
   const linktwitter = () => {
-    window.open('https://twitter.com/JKS_0_0', '_blank');
+    window.open('https://twitter.com/', '_blank');
   };
 
   const linkInstagram = () => {
-    window.open('https://www.instagram.com/etiennejuz/', '_blank');
+    window.open('https://www.instagram.com/', '_blank');
   };
 
   return (
     <div class="container">
       <h2 class="title is-3 titleSection googleFontsConcertOne">
-        Information about ?
+        Lorem ipsum ?
       </h2>
       <p class="subtitle is-6 googleFontsPoppins fontSizeParagraphe">
         Feel free to contact me for more <strong>information.</strong> You can
@@ -31,7 +31,7 @@ export default function Contact() {
         <strong>social networks</strong> below.
       </p>
       <h2 class="has-text-centered pb-4 googleFontsMontserrat fontSizeSubtitle">
-        <strong>Juzans.etienne@gmail.com</strong>
+        <strong>Loremipsumdolorsitamet@gmail.com</strong>
       </h2>
       <div class="divider has-background-light" data-content="OR"></div>
       <div class="socialNetwork pt-4">

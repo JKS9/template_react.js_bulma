@@ -19,9 +19,7 @@ export default function Footer() {
       <footer className="footer googleFontsPoppins">
         <div className="content has-text-centered">
           <p className="textFooter">
-            Copyright &copy; {dateWebSite}{' '}
-            <strong class="googleFontsConcertOne">Etiennejuz</strong>. All
-            Rights Reserved
+            Create by <a href="https://www.etiennejuz.com">Etienne Juzans</a>
           </p>
         </div>
       </footer>
