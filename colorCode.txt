@@ -1,0 +1,2 @@
+footer : # dbdbdb
+footer text : #	363636

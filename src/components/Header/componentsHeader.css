@@ -1,0 +1,13 @@
+#Header {
+  width: 100% !important;
+  background-color: #dbdbdb !important;
+}
+.navbar {
+  background-color: #dbdbdb !important;
+}
+.navbar-menu {
+  background-color: #dbdbdb !important;
+}
+a.navbar-item:focus {
+  background-color: #dbdbdb !important;
+}

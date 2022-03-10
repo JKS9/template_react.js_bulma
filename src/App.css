@@ -1,0 +1,35 @@
+/*  IMPORT GOOGLE FONTS  */
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+.googleFontsConcertOne {
+  font-family: 'Concert One', cursive !important;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.googleFontsMontserrat {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.googleFontsPoppins {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.fontSizeTitle {
+  font-size: 21px !important;
+}
+.fontSizeSubtitle {
+  font-size: 18px !important;
+}
+.fontSizeParagraphe {
+  font-size: 15px !important;
+}
+.fontSizeTag {
+  font-size: 13px !important;
+}
+
+.container:not(.is-max-desktop):not(.is-max-widescreen) {
+  max-width: 1100px;
+}

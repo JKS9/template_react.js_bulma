@@ -1,0 +1,11 @@
+.heightScreen {
+  height: 82vh !important;
+  padding: 7rem 3rem 3rem 3rem !important;
+}
+.returnButton {
+  width: 60% !important;
+  margin: 0 auto;
+}
+.returnButtonMargin {
+  width: 100% !important;
+}

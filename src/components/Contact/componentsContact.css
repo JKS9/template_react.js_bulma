@@ -1,0 +1,26 @@
+.paddingSection {
+  padding: 3rem 4.5rem 4rem 4.5rem !important;
+}
+.titleSection {
+  padding-bottom: 1rem !important;
+}
+.divider {
+  display: block;
+  position: relative;
+  border-top: 0.1rem solid #dbdbdb;
+  height: 0.1rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.divider::after {
+  background: #ffffff;
+  border-radius: 5px;
+  color: #363636;
+  content: attr(data-content);
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.4rem 0.8rem;
+  transform: translateY(-1.1rem);
+  text-align: center;
+}
